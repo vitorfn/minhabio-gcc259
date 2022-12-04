@@ -42,5 +42,5 @@
 
 ### Projetos realizados 🗂
 
-![ConstruPontes](https://github.com/vitorfn/minhavio-gcc259/construpontes.png)
-![HHS Soluções Elétricas](https://github.com/vitorfn/minhavio-gcc259/hhs.png)
+![ConstruPontes](https://github.com/vitorfn/minhabio-gcc259/blob/main/construpontes.png?raw=true)
+![HHS Soluções Elétricas](https://github.com/vitorfn/minhabio-gcc259/blob/main/hhs.png?raw=true)
